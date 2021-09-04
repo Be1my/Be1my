@@ -56,18 +56,18 @@ I'm mainly focuing on `Rust`,`React`,`Deno` and `TypeScript`
    <tr>
     <td>
         <img alt="Tech stack" src="https://img.shields.io/badge/-👉%20%20%20Tech%20Stack-000?" />
-        <img alt="Rust" src="https://img.shields.io/badge/-Rust-fe4365?style=flat&logo=rust&logoColor=white" />
-        <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typeScript&logoColor=white" />
+        <img alt="Rust" src="https://img.shields.io/badge/-Rust-D1AB66?style=flat&logo=rust&logoColor=white" />
+        <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typeScript&logoColor=white" />
         <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-505050?style=flat&logo=JavaScript&logoColor=F7DF1E" />
         <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
         <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white" />
-        <img alt="pnpm" src="https://img.shields.io/badge/-pnpm-563D7C?style=flat&logo=pnpm&logoColor=white" />
+        <img alt="pnpm" src="https://img.shields.io/badge/-pnpm-F69220?style=flat&logo=pnpm&logoColor=white" />
         <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" />
         <img alt="Deno" src="https://img.shields.io/badge/-Deno-00C58E?style=flat&logo=deno&logoColor=white" />
         <img alt="Node" src="https://img.shields.io/badge/-Node-339933?style=flat&logo=node.js&logoColor=white" />
         <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
         <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-        <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-2E7EEA?style=flat&logo=Postgresql&logoColor=white" />
+        <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=Postgresql&logoColor=white" />
     </td>
   </tr>
   <tr>
