@@ -1,4 +1,4 @@
-<h1>Hi, nice to meet you in 2021!👋</h1>
+<h1>Hi, nice to meet you in 2022!👋</h1>
 
 
 I'm mainly focuing on `Rust`,`React`,`Deno` and `TypeScript`
