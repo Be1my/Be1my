@@ -4,6 +4,7 @@
 I'm mainly focuing on `Rust`,`React`,`Deno` and `TypeScript`
 
 <img src="https://s3.bmp.ovh/imgs/2022/02/50c9b379be446c15.gif" width="300" align="left">
+<img src="https://github.com/IzumiJuro/IzumiJuro/blob/main/resources/mei1.gif" width="300" align="left">
 
 <img src="https://static01.imgkr.com/temp/e96403db2a4b4a32a6ca216b77b8fbe0.gif" width="300" height= "300" align="right">
 
