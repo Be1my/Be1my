@@ -3,10 +3,11 @@
 
 I'm mainly focuing on `Rust`,`React`,`Deno` and `TypeScript`
 
+<p>
 <img src="https://s3.bmp.ovh/imgs/2022/02/50c9b379be446c15.gif" width="300" align="left">
 <img src="https://github.com/IzumiJuro/IzumiJuro/blob/main/resources/mei1.gif" width="300" align="left">
-
-<img src="https://static01.imgkr.com/temp/e96403db2a4b4a32a6ca216b77b8fbe0.gif" width="300" height= "300" align="right">
+<img src="https://github.com/IzumiJuro/IzumiJuro/blob/main/resources/mei3.gif" width="300" height= "300" align="right">
+</p>
 
 
 
@@ -99,6 +100,12 @@ I'm mainly focuing on `Rust`,`React`,`Deno` and `TypeScript`
     </td>
   </tr>  
 </table>
+
+<p>
+<img src="https://github.com/IzumiJuro/IzumiJuro/blob/main/resources/mei4.jpg">
+<img src="https://github.com/IzumiJuro/IzumiJuro/blob/main/resources/mei5.jpg">
+</p>
+
 <p>
   <a href="https://github.com/IzumiJuro">
     <img
