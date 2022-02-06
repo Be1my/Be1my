@@ -1,14 +1,63 @@
+<img src="https://s3.bmp.ovh/imgs/2022/02/50c9b379be446c15.gif" width="300" align="left">
+
 <h1>Hi, nice to meet you in 2022!👋</h1>
 
 
 I'm mainly focuing on `Rust`,`React`,`Deno` and `TypeScript`
 
+
+<table cellspacing="0" cellpadding="0" style="border: none;">
+   <tr>
+    <td>
+        <img alt="Tech stack" src="https://img.shields.io/badge/-👉%20%20%20Tech%20Stack-000?" />
+        <img alt="Rust" src="https://img.shields.io/badge/-Rust-D1AB66?style=flat&logo=rust&logoColor=white" />
+        <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typeScript&logoColor=white" />
+        <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-505050?style=flat&logo=JavaScript&logoColor=F7DF1E" />
+        <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
+        <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white" />
+        <img alt="pnpm" src="https://img.shields.io/badge/-pnpm-F69220?style=flat&logo=pnpm&logoColor=white" />
+        <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" />
+        <img alt="Deno" src="https://img.shields.io/badge/-Deno-00C58E?style=flat&logo=deno&logoColor=white" />
+        <img alt="Node" src="https://img.shields.io/badge/-Node-339933?style=flat&logo=node.js&logoColor=white" />
+        <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+        <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+        <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=Postgresql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Developer Product" src="https://img.shields.io/badge/-👉%20%20%20Developer%20Product-000?" />
+      <img alt="Firefox" src="https://img.shields.io/badge/-Firefox-F7B93E?style=flat-square&logo=firefox&logoColor=white" />
+      <img alt="VSCodium" src="https://img.shields.io/badge/-VS%20Codium-F7B93E?style=flat-square&logo=visualstudiocode&logoColor=white" />
+      <img alt="CLion" src="https://img.shields.io/badge/-CLion-F7B93E?style=flat-square&logo=clion&logoColor=white" />    
+      <img alt="Intellij IDEA" src="https://img.shields.io/badge/-IntellijIDEA-F7B93E?style=flat-square&logo=intellijidea&logoColor=white" />  
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Developer Equipment" src="https://img.shields.io/badge/-👉%20%20%20Developer%20Equipment-000?" />
+      <img alt="ROG Strix G512LV" src="https://img.shields.io/badge/-ROG%20Strix%20G512LV-F7B93E?style=flat-square&logo=asus&logoColor=white" />
+      <img alt="ONEPLUS 8T" src="https://img.shields.io/badge/-ONEPLUS%208T-F7B93E?style=flat-square&logo=oneplus&logoColor=white" />
+      <img alt="Samsung Tab S7+" src="https://img.shields.io/badge/-Samsung%20Tab%20S7+-F7B93E?style=flat-square&logo=samsung&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Operating System" src="https://img.shields.io/badge/-👉%20%20%20Operating%20System-000?" />
+      <img alt="Arch Linux" src="https://img.shields.io/badge/-Arch%20Linux-F7B93E?style=flat-square&logo=archlinux&logoColor=white" />
+      <img alt="Windows11" src="https://img.shields.io/badge/-Windows11-F7B93E?style=flat-square&logo=windows&logoColor=white" />
+    </td>
+  </tr>  
+</table>
 <p>
-<img src="https://s3.bmp.ovh/imgs/2022/02/50c9b379be446c15.gif" width="300" align="left">
-<img src="https://github.com/IzumiJuro/IzumiJuro/blob/main/resources/mei1.gif" width="300" align="left">
-<img src="https://github.com/IzumiJuro/IzumiJuro/blob/main/resources/mei3.gif" width="300" height= "300" align="right">
+<img src="https://github.com/IzumiJuro/IzumiJuro/blob/main/resources/mei4.jpg">
+<img src="https://github.com/IzumiJuro/IzumiJuro/blob/main/resources/mei5.jpg">
 </p>
 
+<p>
+<img src="https://github.com/IzumiJuro/IzumiJuro/blob/main/resources/mei1.gif">
+<img src="https://github.com/IzumiJuro/IzumiJuro/blob/main/resources/mei3.gif">
+</p>
 
 
 <!--
@@ -57,54 +106,8 @@ I'm mainly focuing on `Rust`,`React`,`Deno` and `TypeScript`
 </p>
 -->
 
-<table cellspacing="0" cellpadding="0" style="border: none;">
-   <tr>
-    <td>
-        <img alt="Tech stack" src="https://img.shields.io/badge/-👉%20%20%20Tech%20Stack-000?" />
-        <img alt="Rust" src="https://img.shields.io/badge/-Rust-D1AB66?style=flat&logo=rust&logoColor=white" />
-        <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typeScript&logoColor=white" />
-        <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-505050?style=flat&logo=JavaScript&logoColor=F7DF1E" />
-        <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
-        <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white" />
-        <img alt="pnpm" src="https://img.shields.io/badge/-pnpm-F69220?style=flat&logo=pnpm&logoColor=white" />
-        <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" />
-        <img alt="Deno" src="https://img.shields.io/badge/-Deno-00C58E?style=flat&logo=deno&logoColor=white" />
-        <img alt="Node" src="https://img.shields.io/badge/-Node-339933?style=flat&logo=node.js&logoColor=white" />
-        <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-        <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-        <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=Postgresql&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img alt="Developer Product" src="https://img.shields.io/badge/-👉%20%20%20Developer%20Product-000?" />
-      <img alt="Firefox" src="https://img.shields.io/badge/-Firefox-F7B93E?style=flat-square&logo=firefox&logoColor=white" />
-      <img alt="VSCodium" src="https://img.shields.io/badge/-VS%20Codium-F7B93E?style=flat-square&logo=visualstudiocode&logoColor=white" />
-      <img alt="CLion" src="https://img.shields.io/badge/-CLion-F7B93E?style=flat-square&logo=clion&logoColor=white" />    
-      <img alt="Intellij IDEA" src="https://img.shields.io/badge/-IntellijIDEA-F7B93E?style=flat-square&logo=intellijidea&logoColor=white" />  
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img alt="Developer Equipment" src="https://img.shields.io/badge/-👉%20%20%20Developer%20Equipment-000?" />
-      <img alt="ROG Strix G512LV" src="https://img.shields.io/badge/-ROG%20Strix%20G512LV-F7B93E?style=flat-square&logo=asus&logoColor=white" />
-      <img alt="ONEPLUS 8T" src="https://img.shields.io/badge/-ONEPLUS%208T-F7B93E?style=flat-square&logo=oneplus&logoColor=white" />
-      <img alt="Samsung Tab S7+" src="https://img.shields.io/badge/-Samsung%20Tab%20S7+-F7B93E?style=flat-square&logo=samsung&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img alt="Operating System" src="https://img.shields.io/badge/-👉%20%20%20Operating%20System-000?" />
-      <img alt="Arch Linux" src="https://img.shields.io/badge/-Arch%20Linux-F7B93E?style=flat-square&logo=archlinux&logoColor=white" />
-      <img alt="Windows11" src="https://img.shields.io/badge/-Windows11-F7B93E?style=flat-square&logo=windows&logoColor=white" />
-    </td>
-  </tr>  
-</table>
 
-<p>
-<img src="https://github.com/IzumiJuro/IzumiJuro/blob/main/resources/mei4.jpg">
-<img src="https://github.com/IzumiJuro/IzumiJuro/blob/main/resources/mei5.jpg">
-</p>
+
 
 <p>
   <a href="https://github.com/IzumiJuro">
