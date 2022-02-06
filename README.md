@@ -55,8 +55,8 @@ I'm mainly focuing on `Rust`,`React`,`Deno` and `TypeScript`
 </p>
 
 <p>
-<img src="https://github.com/IzumiJuro/IzumiJuro/blob/main/resources/mei1.gif" width="300" align="left">
-<img src="https://github.com/IzumiJuro/IzumiJuro/blob/main/resources/mei3.gif" width="300" align="center">
+<img src="https://github.com/IzumiJuro/IzumiJuro/blob/main/resources/mei1.gif" width="300" >
+<img src="https://github.com/IzumiJuro/IzumiJuro/blob/main/resources/mei3.gif" width="300" >
 </p>
 
 
