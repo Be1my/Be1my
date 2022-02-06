@@ -96,4 +96,7 @@ I'm mainly focuing on `Rust`,`React`,`Deno` and `TypeScript`
   </tr>  
 </table>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IzumiJuro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<p>
 Thx for following me!
