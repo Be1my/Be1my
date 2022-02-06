@@ -3,6 +3,9 @@
 
 I'm mainly focuing on `Rust`,`React`,`Deno` and `TypeScript`
 
+<img src="https://s3.bmp.ovh/imgs/2022/02/50c9b379be446c15.gif" width="300" align="left">
+
+<img src="https://static01.imgkr.com/temp/e96403db2a4b4a32a6ca216b77b8fbe0.gif" width="300" height= "300" align="right">
 
 
 
@@ -95,8 +98,20 @@ I'm mainly focuing on `Rust`,`React`,`Deno` and `TypeScript`
     </td>
   </tr>  
 </table>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IzumiJuro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <p>
+  <a href="https://github.com/IzumiJuro">
+    <img
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api?username=IzumiJuro&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+    />
+  </a>
+  <a href="https://github.com/IzumiJuro">
+    <img
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzumiJuro&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
+    />
+  </a>
+</p>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=IzumiJuro&theme=react-dark" alt="drawing" width="800"/>
 Thx for following me!
