@@ -3,7 +3,7 @@
 <h1>Hi, nice to meet you in 2022!👋</h1>
 
 
-I'm mainly focuing on `Rust`,`React`,`Deno` and `TypeScript`
+I'm mainly focuing on `Rust`,`React`, `Kotlin`and `TypeScript`
 
 
 <table cellspacing="0" cellpadding="0" style="border: none;">
@@ -14,6 +14,7 @@ I'm mainly focuing on `Rust`,`React`,`Deno` and `TypeScript`
         <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typeScript&logoColor=white" />
         <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-505050?style=flat&logo=JavaScript&logoColor=F7DF1E" />
         <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
+        <img alt="Next" src="https://img.shields.io/badge/-Next-000000?style=flat&logo=Next.js&logoColor=white" />
         <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white" />
         <img alt="pnpm" src="https://img.shields.io/badge/-pnpm-F69220?style=flat&logo=pnpm&logoColor=white" />
         <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" />
@@ -22,6 +23,7 @@ I'm mainly focuing on `Rust`,`React`,`Deno` and `TypeScript`
         <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
         <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
         <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=Postgresql&logoColor=white" />
+        <imt alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=Prisma&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -88,7 +90,7 @@ I'm mainly focuing on `Rust`,`React`,`Deno` and `TypeScript`
 <img alt="socket.io" src="https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io&logoColor=white" />
 
 <img alt="Nodemon" src="https://img.shields.io/badge/-Nodemon-76D04B?style=flat&logo=nodemon&logoColor=white" />
-<img alt="Next" src="https://img.shields.io/badge/-Next-000000?style=flat&logo=Next.js&logoColor=white" />
+
 <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt-00C58E?style=flat&logo=Nuxt.js&logoColor=white" />
 <img alt="Travis CI" src="https://img.shields.io/badge/-Travis CI-3EAAAF?style=flat&logo=Travis-CI&logoColor=white" />
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white" />
