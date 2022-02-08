@@ -61,10 +61,10 @@ I'm mainly focuing on `Rust`,`React`, `Kotlin`and `TypeScript`
 </table>
 
 
-<img src="https://github.com/IzumiJuro/IzumiJuro/blob/main/resources/mei1.gif" width="300" >
-<img src="https://github.com/IzumiJuro/IzumiJuro/blob/main/resources/mei3.gif" width="300" >
-
-
+<p>
+<img src="https://github.com/IzumiJuro/IzumiJuro/blob/main/resources/mei1.gif" width="300"  alt="">
+<img src="https://github.com/IzumiJuro/IzumiJuro/blob/main/resources/mei3.gif" width="300"  alt="">
+</p>
 
 <!--
 <p>
