@@ -12,10 +12,14 @@ I'm mainly focuing on `Rust`,`React`, `Kotlin`and `TypeScript`
         <img alt="Tech stack" src="https://img.shields.io/badge/-👉%20%20%20Tech%20Stack-000?" />
         <img alt="Rust" src="https://img.shields.io/badge/-Rust-D1AB66?style=flat&logo=rust&logoColor=white" />
         <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typeScript&logoColor=white" />
-        <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-505050?style=flat&logo=JavaScript&logoColor=F7DF1E" />
+        <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-505050?style=flat&logo=JavaScript&logoColor=white" />
+        <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white" />
+        <img alt="JetPack Compose" src="https://img.shields.io/badge/-JetPack Compose-4285F4?style=flat&logo=JetPack Compose&logoColor=white" />
         <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
         <img alt="Next" src="https://img.shields.io/badge/-Next-000000?style=flat&logo=Next.js&logoColor=white" />
         <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white" />
+        <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt-00C58E?style=flat&logo=Nuxt.js&logoColor=white" />
+        <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=Vite&logoColor=white" />
         <img alt="pnpm" src="https://img.shields.io/badge/-pnpm-F69220?style=flat&logo=pnpm&logoColor=white" />
         <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" />
         <img alt="Deno" src="https://img.shields.io/badge/-Deno-00C58E?style=flat&logo=deno&logoColor=white" />
@@ -23,16 +27,20 @@ I'm mainly focuing on `Rust`,`React`, `Kotlin`and `TypeScript`
         <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
         <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
         <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=Postgresql&logoColor=white" />
-        <imt alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=Prisma&logoColor=white" />
+        <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=Prisma&logoColor=white">
+        <img alt="socket.io" src="https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io&logoColor=white" />
+        <img alt="docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td>
       <img alt="Developer Product" src="https://img.shields.io/badge/-👉%20%20%20Developer%20Product-000?" />
-      <img alt="Firefox" src="https://img.shields.io/badge/-Firefox-F7B93E?style=flat-square&logo=firefox&logoColor=white" />
+      <img alt="Firefox Nightly" src="https://img.shields.io/badge/-Firefox Nightly-F7B93E?style=flat-square&logo=firefox&logoColor=white" />
+      <img alt="Chrome Canary" src="https://img.shields.io/badge/-Chrome Canary-F7B93E?style=flat-square&logo=Google Chrome&logoColor=white" />
       <img alt="VSCodium" src="https://img.shields.io/badge/-VS%20Codium-F7B93E?style=flat-square&logo=visualstudiocode&logoColor=white" />
       <img alt="CLion" src="https://img.shields.io/badge/-CLion-F7B93E?style=flat-square&logo=clion&logoColor=white" />    
-      <img alt="Intellij IDEA" src="https://img.shields.io/badge/-IntellijIDEA-F7B93E?style=flat-square&logo=intellijidea&logoColor=white" />  
+      <img alt="Intellij IDEA" src="https://img.shields.io/badge/-Intellij IDEA-F7B93E?style=flat-square&logo=intellijidea&logoColor=white" />  
+      <img alt="WebStorm" src="https://img.shields.io/badge/-WebStorm-F7B93E?style=flat-square&logo=webstorm&logoColor=white" />  
     </td>
   </tr>
   <tr>
@@ -60,8 +68,7 @@ I'm mainly focuing on `Rust`,`React`, `Kotlin`and `TypeScript`
 
 <!--
 <p>
-<img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
+<img alt="Tauri" src="https://img.shields.io/badge/-Tauri-FFC131?style=flat&logo=Tauri&logoColor=white" />
 <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
 <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white" />
 <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=Html5&logoColor=white" />
@@ -87,15 +94,10 @@ I'm mainly focuing on `Rust`,`React`, `Kotlin`and `TypeScript`
 <img alt="Material Design" src="https://img.shields.io/badge/-Material Design-757575?style=flat&logo=material-design&logoColor=white" />
 <img alt="Material Design Icons" src="https://img.shields.io/badge/-Material Design Icons-2196F3?style=flat&logo=material-design-icons&logoColor=white" />
 <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white" />
-<img alt="socket.io" src="https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io&logoColor=white" />
-
 <img alt="Nodemon" src="https://img.shields.io/badge/-Nodemon-76D04B?style=flat&logo=nodemon&logoColor=white" />
-
-<img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt-00C58E?style=flat&logo=Nuxt.js&logoColor=white" />
 <img alt="Travis CI" src="https://img.shields.io/badge/-Travis CI-3EAAAF?style=flat&logo=Travis-CI&logoColor=white" />
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white" />
 <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
-
 <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
 <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white" />
