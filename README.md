@@ -49,10 +49,6 @@ I'm mainly focuing on `Rust`,`React`,`Deno` and `TypeScript`
     </td>
   </tr>  
 </table>
-<p>
-<img src="https://github.com/IzumiJuro/IzumiJuro/blob/main/resources/mei4.jpg">
-<img src="https://github.com/IzumiJuro/IzumiJuro/blob/main/resources/mei5.jpg">
-</p>
 
 
 <img src="https://github.com/IzumiJuro/IzumiJuro/blob/main/resources/mei1.gif" width="300" >
