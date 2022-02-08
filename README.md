@@ -12,7 +12,7 @@ I'm mainly focuing on `Rust`,`React`, `Kotlin`and `TypeScript`
         <img alt="Tech stack" src="https://img.shields.io/badge/-👉%20%20%20Tech%20Stack-000?" />
         <img alt="Rust" src="https://img.shields.io/badge/-Rust-D1AB66?style=flat&logo=rust&logoColor=white" />
         <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typeScript&logoColor=white" />
-        <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-505050?style=flat&logo=JavaScript&logoColor=white" />
+        <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" />
         <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white" />
         <img alt="JetPack Compose" src="https://img.shields.io/badge/-JetPack Compose-4285F4?style=flat&logo=JetPack Compose&logoColor=white" />
         <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
