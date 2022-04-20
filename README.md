@@ -3,7 +3,7 @@
 <h1>Hi, nice to meet you in 2022!👋</h1>
 
 
-I'm mainly focuing on `Rust`,`React`, `Kotlin`and `TypeScript`
+I'm mainly focusing on `Rust`,`React`, `Kotlin`and `TypeScript`
 
 
 <table cellspacing="0" cellpadding="0" style="border: none;">
