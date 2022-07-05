@@ -61,10 +61,6 @@ I'm mainly focusing on `Rust`,`React`, `Kotlin`and `TypeScript`
 </table>
 
 
-<p>
-<img src="https://github.com/IzumiJuro/IzumiJuro/blob/main/resources/mei1.gif" width="300"  alt="">
-<img src="https://github.com/IzumiJuro/IzumiJuro/blob/main/resources/mei3.gif" width="300"  alt="">
-</p>
 
 <!--
 <p>
