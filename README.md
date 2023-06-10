@@ -120,5 +120,4 @@ I'm mainly focusing on `Rust`,`React`, `Kotlin`and `TypeScript`
   </a>
 </p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=IzumiJuro&theme=react-dark" alt="drawing" width="800"/>
-Thx for following me!
+
