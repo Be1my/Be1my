@@ -1,0 +1,152 @@
+{
+    "easyloading.title": "Loading...",
+    "welcome": {
+        "title": "Hundreds of Novels",
+        "subtitle": "Read Anytime, Anywhere",
+        "button": {
+            "google": "Continue with Google",
+            "facebook": "Continue with Facebook"
+        },
+        "reset": {
+            "title": "Forget your sign-up method or password?",
+            "subtitle": "Reset your password"
+        }
+    },
+    "settings": {
+        "title": "Settings",
+        "notifications": "Notifications",
+        "preferredLanguage": "Language",
+        "privacyPolicy": "Privacy Policy",
+        "termsOfService": "Terms of Service",
+        "subscriptionTerms": "Subscription Terms",
+        "redeemAPremium": "Redeem a Premium",
+        "manageYourSubscription": "Manage Your Subscription",
+        "clearCache": "Clear Cache",
+        "userID": "User ID",
+        "signOut": "Sign Out"
+    },
+    "profile": {
+        "carousel": {
+            "title1": "1000 Coins / Month",
+            "title2": "Premium Reading",
+            "title3": "No Ads",
+            "title4": "Exclusive Content",
+            "title5": "Early Access",
+            "title6": "Cancel Anytime",
+            "premium": "Premium",
+            "getPremium": "GET PREMIUM"
+        },
+        "gesture": {
+            "title1": "Become a Novel Writer",
+            "title2": "Help Center"
+        },
+        "card": {
+            "balance": "Coin balance",
+            "title": "Library Card",
+            "edit": "Edit"
+        },
+        "editProfile": {
+            "title": "Edit Profile",
+            "save": "Save",
+            "changePhoto": "Change Photo",
+            "hint": "This could be your first name or nickname. It's how you'll appear on Plotfun."
+        }
+    },
+    "discover": {
+        "alsoLike": "You might also like"
+    },
+    "library": {
+        "favorites": "Favorites",
+        "recents": {
+            "title": "Recents",
+            "empty": "You haven't read any stories yet.",
+            "add": "Add to Bookshelf"
+        }
+    },
+    "detail": {
+        "theme": "Theme",
+        "synopsis": "Synopsis",
+        "status": {
+            "title1": "Completed",
+            "title2": "Ongoing"
+        },
+        "startReading": "Start Reading"
+    },
+    "writer": {
+        "idea": "Idea",
+        "inspiration": "Inspiration",
+        "generate": "Generate",
+        "inputHint": "Write your story here...",
+        "custom": {
+            "title": "Optional custom",
+            "characterDetails": "Character Details",
+            "characterHint": "Character is the lifeblood of your story. Add as many as you need.",
+            "storySetting": "Story's Setting",
+            "storyHint": "Where does your story take place? Describe the world you're creating.",
+            "narrativePerspective": "Narrative Perspective",
+            "firstPerson": "First Person",
+            "thirdPerson": "Third Person"
+        },
+        "genre": {
+            "title": "Choose Your Story's Genre",
+            "fiction": {
+                "title": "Fiction",
+                "subtitle": "Dive into a world of imagination and creativity."
+            },
+            "mystery": {
+                "title": "Mystery",
+                "subtitle": "Uncover the truth and solve the case."
+            },
+            "romance": {
+                "title": "Romance",
+                "subtitle": "Find love in the most unexpected places."
+            },
+            "fantasy": {
+                "title": "Fantasy",
+                "subtitle": "Explore magical worlds and mythical creatures."
+            },
+            "horror": {
+                "title": "Horror",
+                "subtitle": "Face your fears and survive the night."
+            },
+            "adventure": {
+                "title": "Adventure",
+                "subtitle": "Embark on a journey and discover new lands."
+            },
+            "detective": {
+                "title": "Detective",
+                "subtitle": "Solve crimes and catch the culprit."
+            }
+        }
+    },
+    "reader": {
+        "settings": {
+            "fontSize": "Font Size",
+            "background": "Background",
+            "animation": {
+                "title": "Animation",
+                "curl": "Curl",
+                "slide": "Slide",
+                "cover": "Cover",
+                "simulation": "Simulation",
+                "scroll": "Scroll",
+                "flip": "Flip"
+            }
+        }
+    },
+    "startup": {
+        "chooseLanguage": {
+            "title": "Pick your language",
+            "desc": "Remember, this decision is permanent and cannot be changed.",
+            "btn": "Continue",
+            "alert": "You must select a language to continue.",
+            "bottomSheet": {
+                "title": "Your choice cannot be changed again.",
+                "subtitle": "Please confirm your selection -> ",
+                "ok": "OK",
+                "cancel": "CANCEL"
+            },
+            "success": "Download complete. Redirecting to login page."
+        }
+    }
+}
