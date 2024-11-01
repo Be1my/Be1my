@@ -106,16 +106,16 @@ I'm mainly focusing on `Rust`,`React`, `Kotlin`and `TypeScript`
 
 
 <p>
-  <a href="https://github.com/IzumiJuro">
+  <a href="https://github.com/Be1my">
     <img
       height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=IzumiJuro&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api?username=Be1my&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
     />
   </a>
-  <a href="https://github.com/IzumiJuro">
+  <a href="https://github.com/Be1my">
     <img
       height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzumiJuro&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Be1my&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
     />
   </a>
 </p>
