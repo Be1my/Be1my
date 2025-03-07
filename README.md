@@ -1,6 +1,6 @@
 <img src="https://s3.bmp.ovh/imgs/2022/02/50c9b379be446c15.gif" width="300" align="left">
 
-<h1>Hi, nice to meet you in 2022!👋</h1>
+<h1>Hi, nice to meet you in ~~2022~~2025!👋</h1>
 
 
 I'm mainly focusing on `Rust`,`React`, `Kotlin`and `TypeScript`
