@@ -22,6 +22,7 @@ I'm mainly focusing on `Rust`,`React`, `Dart`and `TypeScript`
         <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=Vite&logoColor=white" />
        <img alt="Bun" src="https://img.shields.io/badge/-Bun-000000?style=flat&logo=Bun&logoColor=white" />
        <img alt="Hono" src="https://img.shields.io/badge/-Hono-E36002?style=flat&logo=Hono&logoColor=white" />
+       <img alt="CloudFlare Workers" src="https://img.shields.io/badge/-CloudFlare Workers-F38020?style=flat&logo=cloudflareworkers&logoColor=white" />
         <img alt="pnpm" src="https://img.shields.io/badge/-pnpm-F69220?style=flat&logo=pnpm&logoColor=white" />
         <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" />
         <img alt="Node" src="https://img.shields.io/badge/-Node-339933?style=flat&logo=node.js&logoColor=white" />
