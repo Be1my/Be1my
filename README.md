@@ -13,11 +13,12 @@ I'm mainly focusing on `Rust`,`React`, `Dart`and `TypeScript`
         <img alt="Rust" src="https://img.shields.io/badge/-Rust-D1AB66?style=flat&logo=rust&logoColor=white" />
         <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typeScript&logoColor=white" />
         <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" />
-        <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=Dart&logoColor=black" />
+        <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=Dart&logoColor=white" />
+       <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569b?style=flat&logo=react&logoColor=white" />
         <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
         <img alt="Next" src="https://img.shields.io/badge/-Next-000000?style=flat&logo=Next.js&logoColor=white" />
         <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white" />
-        <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt-00C58E?style=flat&logo=Nuxt.js&logoColor=white" />
+        <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt-00DC82?style=flat&logo=Nuxt&logoColor=white" />
         <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=Vite&logoColor=white" />
        <img alt="Bun" src="https://img.shields.io/badge/-Bun-000000?style=flat&logo=Bun&logoColor=white" />
        <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=Flutter&logoColor=white" />
