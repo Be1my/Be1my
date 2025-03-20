@@ -24,7 +24,7 @@ I'm mainly focusing on `Rust`,`React`, `Dart`and `TypeScript`
         <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
         <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
         <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=Postgresql&logoColor=white" />
-        <img alt="Drizzle" src="https://img.shields.io/badge/-Drizzle-C5F74F?style=flat&logo=Drizzle&logoColor=white">
+        <img alt="Drizzle" src="https://img.shields.io/badge/-Drizzle-C5F74F?style=flat&logo=Drizzle&logoColor=black">
         <img alt="docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
     </td>
   </tr>
