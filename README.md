@@ -13,8 +13,6 @@ I'm mainly focusing on `Rust`,`React`, `Dart`and `TypeScript`
         <img alt="Rust" src="https://img.shields.io/badge/-Rust-D1AB66?style=flat&logo=rust&logoColor=white" />
         <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typeScript&logoColor=white" />
         <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" />
-        <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white" />
-        <img alt="JetPack Compose" src="https://img.shields.io/badge/-JetPack Compose-4285F4?style=flat&logo=JetPack Compose&logoColor=white" />
         <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
         <img alt="Next" src="https://img.shields.io/badge/-Next-000000?style=flat&logo=Next.js&logoColor=white" />
         <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white" />
@@ -22,13 +20,11 @@ I'm mainly focusing on `Rust`,`React`, `Dart`and `TypeScript`
         <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=Vite&logoColor=white" />
         <img alt="pnpm" src="https://img.shields.io/badge/-pnpm-F69220?style=flat&logo=pnpm&logoColor=white" />
         <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" />
-        <img alt="Deno" src="https://img.shields.io/badge/-Deno-00C58E?style=flat&logo=deno&logoColor=white" />
         <img alt="Node" src="https://img.shields.io/badge/-Node-339933?style=flat&logo=node.js&logoColor=white" />
         <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
         <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
         <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=Postgresql&logoColor=white" />
-        <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=Prisma&logoColor=white">
-        <img alt="socket.io" src="https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io&logoColor=white" />
+        <img alt="Drizzle" src="https://img.shields.io/badge/-Drizzle-C5F74F?style=flat&logo=Drizzle&logoColor=white">
         <img alt="docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
     </td>
   </tr>
