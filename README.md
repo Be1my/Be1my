@@ -40,9 +40,9 @@ I'm mainly focusing on `Rust`,`React`, `Dart`and `TypeScript`
     <td>
       <img alt="Developer Equipment" src="https://img.shields.io/badge/-👉%20%20%20Developer%20Equipment-000?" />
       <img alt="ROG Strix G512LV" src="https://img.shields.io/badge/-ROG%20Strix%20G512LV-F7B93E?style=flat-square&logo=asus&logoColor=white" />
-      <img alt="Mac Mini m4" src="https://img.shields.io/badge/-Mac Mini?style=flat-square&logo=macOs&logoColor=white" />
+      <img alt="Mac Mini m4" src="https://img.shields.io/badge/-Mac Mini-000000?style=flat-square&logo=macOs&logoColor=white" />
       <img alt="Samsung Galaxy S24 Ultra" src="https://img.shields.io/badge/-Samsung Galaxy S24 Ultra-1428A0?style=flat-square&logo=samsung&logoColor=white" />
-      <img alt="Samsung Tab S7+" src="https://img.shields.io/badge/-Samsung%20Tab%20S7+-F7B93E?style=flat-square&logo=samsung&logoColor=white" />
+      <img alt="Samsung Tab S7+" src="https://img.shields.io/badge/-Samsung%20Tab%20S7+-1428A0?style=flat-square&logo=samsung&logoColor=white" />
     </td>
   </tr>
   <tr>
