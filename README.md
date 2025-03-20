@@ -32,18 +32,16 @@ I'm mainly focusing on `Rust`,`React`, `Dart`and `TypeScript`
     <td>
       <img alt="Developer Product" src="https://img.shields.io/badge/-👉%20%20%20Developer%20Product-000?" />
       <img alt="Firefox Nightly" src="https://img.shields.io/badge/-Firefox Nightly-F7B93E?style=flat-square&logo=firefox&logoColor=white" />
-      <img alt="Chrome Canary" src="https://img.shields.io/badge/-Chrome Canary-F7B93E?style=flat-square&logo=Google Chrome&logoColor=white" />
-      <img alt="VSCodium" src="https://img.shields.io/badge/-VS%20Codium-F7B93E?style=flat-square&logo=visualstudiocode&logoColor=white" />
-      <img alt="CLion" src="https://img.shields.io/badge/-CLion-F7B93E?style=flat-square&logo=clion&logoColor=white" />    
-      <img alt="Intellij IDEA" src="https://img.shields.io/badge/-Intellij IDEA-F7B93E?style=flat-square&logo=intellijidea&logoColor=white" />  
-      <img alt="WebStorm" src="https://img.shields.io/badge/-WebStorm-F7B93E?style=flat-square&logo=webstorm&logoColor=white" />  
+      <img alt="Chrome" src="https://img.shields.io/badge/-Chrome Canary-F7B93E?style=flat-square&logo=Google Chrome&logoColor=white" />
+      <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-F7B93E?style=flat-square&logo=vscodium&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td>
       <img alt="Developer Equipment" src="https://img.shields.io/badge/-👉%20%20%20Developer%20Equipment-000?" />
       <img alt="ROG Strix G512LV" src="https://img.shields.io/badge/-ROG%20Strix%20G512LV-F7B93E?style=flat-square&logo=asus&logoColor=white" />
-      <img alt="ONEPLUS 8T" src="https://img.shields.io/badge/-ONEPLUS%208T-F7B93E?style=flat-square&logo=oneplus&logoColor=white" />
+      <img alt="Mac Mini m4" src="https://img.shields.io/badge/-Mac Mini?style=flat-square&logo=macOs&logoColor=white" />
+      <img alt="Samsung Galaxy S24 Ultra" src="https://img.shields.io/badge/-Samsung Galaxy S24 Ultra-1428A0?style=flat-square&logo=samsung&logoColor=white" />
       <img alt="Samsung Tab S7+" src="https://img.shields.io/badge/-Samsung%20Tab%20S7+-F7B93E?style=flat-square&logo=samsung&logoColor=white" />
     </td>
   </tr>
