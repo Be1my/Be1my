@@ -18,6 +18,8 @@ I'm mainly focusing on `Rust`,`React`, `Dart`and `TypeScript`
         <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white" />
         <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt-00C58E?style=flat&logo=Nuxt.js&logoColor=white" />
         <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=Vite&logoColor=white" />
+       <img alt="Bun" src="https://img.shields.io/badge/-Bun-000000?style=flat&logo=Bun&logoColor=white" />
+       <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=Flutter&logoColor=white" />
         <img alt="pnpm" src="https://img.shields.io/badge/-pnpm-F69220?style=flat&logo=pnpm&logoColor=white" />
         <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" />
         <img alt="Node" src="https://img.shields.io/badge/-Node-339933?style=flat&logo=node.js&logoColor=white" />
@@ -31,7 +33,6 @@ I'm mainly focusing on `Rust`,`React`, `Dart`and `TypeScript`
   <tr>
     <td>
       <img alt="Developer Product" src="https://img.shields.io/badge/-👉%20%20%20Developer%20Product-000?" />
-      <img alt="Firefox Nightly" src="https://img.shields.io/badge/-Firefox Nightly-F7B93E?style=flat-square&logo=firefox&logoColor=white" />
       <img alt="Chrome" src="https://img.shields.io/badge/-Chrome Canary-F7B93E?style=flat-square&logo=Google Chrome&logoColor=white" />
       <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-F7B93E?style=flat-square&logo=vscodium&logoColor=white" />
     </td>
@@ -40,7 +41,7 @@ I'm mainly focusing on `Rust`,`React`, `Dart`and `TypeScript`
     <td>
       <img alt="Developer Equipment" src="https://img.shields.io/badge/-👉%20%20%20Developer%20Equipment-000?" />
       <img alt="ROG Strix G512LV" src="https://img.shields.io/badge/-ROG%20Strix%20G512LV-F7B93E?style=flat-square&logo=asus&logoColor=white" />
-      <img alt="Mac Mini m4" src="https://img.shields.io/badge/-Mac Mini-000000?style=flat-square&logo=macOs&logoColor=white" />
+      <img alt="Mac Mini m4" src="https://img.shields.io/badge/-Mac Mini m4-000000?style=flat-square&logo=macOs&logoColor=white" />
       <img alt="Samsung Galaxy S24 Ultra" src="https://img.shields.io/badge/-Samsung Galaxy S24 Ultra-1428A0?style=flat-square&logo=samsung&logoColor=white" />
       <img alt="Samsung Tab S7+" src="https://img.shields.io/badge/-Samsung%20Tab%20S7+-1428A0?style=flat-square&logo=samsung&logoColor=white" />
     </td>
@@ -50,6 +51,7 @@ I'm mainly focusing on `Rust`,`React`, `Dart`and `TypeScript`
       <img alt="Operating System" src="https://img.shields.io/badge/-👉%20%20%20Operating%20System-000?" />
       <img alt="Arch Linux" src="https://img.shields.io/badge/-Arch%20Linux-F7B93E?style=flat-square&logo=archlinux&logoColor=white" />
       <img alt="Windows11" src="https://img.shields.io/badge/-Windows11-F7B93E?style=flat-square&logo=windows&logoColor=white" />
+      <img alt="Macos" src="https://img.shields.io/badge/-Macos-F7B93E?style=flat-square&logo=macos&logoColor=white" />
     </td>
   </tr>  
 </table>
